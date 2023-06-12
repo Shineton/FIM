@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+    height: 300px;
+}
+body{
+    background-color: aqua;
+    text-align: center;
+    color: chartreuse;
+    font-size: 20px;
+}

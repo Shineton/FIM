@@ -1,0 +1,11 @@
+div {
+  display: inline-block;
+  width: 350px;
+  height: 410px;
+  top: 0;
+  background-color: brown;
+}
+body {
+  text-align: center;
+  background-color: aqua;
+}
